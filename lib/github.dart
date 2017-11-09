@@ -20,7 +20,7 @@ class GithubView extends StatefulWidget {
 class _GithubViewState extends State<GithubView> {
   Map<String, dynamic> data;
   static final _header = {
-    "Authorization": "token 593cf805d6f8baf4503af935b01ee2c300f02d68",
+    "Authorization": "token 42",
     "Accept": "application/vnd.github.v3+json"
   };
   static const String _url = "https://api.github.com/search";
