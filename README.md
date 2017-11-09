@@ -1,2 +1,8 @@
-# WebSoaApi
-Web Soa Project Tongji 4 api used
+# websoaapi
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](http://flutter.io/).
